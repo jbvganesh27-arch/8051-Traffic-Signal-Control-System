@@ -93,7 +93,8 @@ They show example states as the input buttons are activated.
 8051-Traffic-Signal-Control-System/
 ├── README.md
 ├── src/
-│   └── traffic_control.c
+│   ├── traffic_control.c
+|   ├── traffic_control.uvproj
 ├── assets/
 │   ├── circuit-diagram.png
 │   ├── result-01.png
