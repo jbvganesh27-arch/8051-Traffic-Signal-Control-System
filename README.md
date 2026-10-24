@@ -58,7 +58,7 @@ The buttons are read as active-low inputs in the supplied code
 
 ## Circuit Diagram
 
-![Proteus circuit diagram](Assets/circuit-diagram.png)
+![Proteus circuit diagram](Assets/Result-01.png)
 
 ## Simulation Results
 
