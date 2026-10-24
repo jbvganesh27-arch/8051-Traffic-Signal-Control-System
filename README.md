@@ -101,10 +101,8 @@ They show example states as the input buttons are activated.
 │   ├── result-03.png
 │   ├── result-04.png
 │   └── result-05.png
-├── simulation/
-│   └── (add the Proteus project files here)
-└── docs/
-    └── (add the project report PDF here, if approved for public sharing)
+├── PROJECT Traffic light.pdsprj
+└── Project report.pdf
 ```
 
 ## Current Limitations
