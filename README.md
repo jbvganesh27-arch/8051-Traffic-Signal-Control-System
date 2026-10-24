@@ -58,7 +58,7 @@ The buttons are read as active-low inputs in the supplied code
 
 ## Circuit Diagram
 
-![Proteus circuit diagram](assets/circuit-diagram.png)
+![Proteus circuit diagram](Assets/circuit-diagram.png)
 
 ## Simulation Results
 
@@ -67,11 +67,11 @@ They show example states as the input buttons are activated.
 
   Simulation result   Screenshot
   ------------------- ----------------------------------------------
-  Result 1            ![Simulation result 1](assets/result-01.png)
-  Result 2            ![Simulation result 2](assets/result-02.png)
-  Result 3            ![Simulation result 3](assets/result-03.png)
-  Result 4            ![Simulation result 4](assets/result-04.png)
-  Result 5            ![Simulation result 5](assets/result-05.png)
+  Result 1            ![Simulation result 1](Assets/result-01.png)
+  Result 2            ![Simulation result 2](Assets/result-02.png)
+  Result 3            ![Simulation result 3](Assets/result-03.png)
+  Result 4            ![Simulation result 4](Assets/result-04.png)
+  Result 5            ![Simulation result 5](Assets/result-05.png)
 
 ## Software Used
 
